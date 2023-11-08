@@ -1,0 +1,16 @@
+body {
+    text-align: center;
+}
+
+.project-body {
+    margin-top: 6rem;
+    margin-left: 12rem;
+    margin-right: 12rem;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+    
+
+    background-color: lightskyblue;
+
+    border-radius: 2rem;
+}
